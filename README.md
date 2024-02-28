@@ -25,6 +25,3 @@
 8. Documentation:
    - Referenced the provided repo for clean architecture and file structuring.
 
-9. Usage:
-   - Follow the Gitlab Docker Example for CI/CD setup.
-   - Deploy the API on Heroku or AWS using the Dockerfile in the Gitlab registry.
